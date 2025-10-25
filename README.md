@@ -47,9 +47,6 @@ This project explores relationships between various **movie features** such as r
 ## 📂 Files
 - `movies.csv` – Source dataset  
 - `Movies Analysis and Correlation.ipynb` – Jupyter Notebook with full analysis  
-- *(Optional)* Download supporting files:
-  - [Correlation Matrix CSV](sandbox:/mnt/data/movies_corr_matrix.csv)
-  - [Numeric Summary CSV](sandbox:/mnt/data/movies_numeric_summary.csv)
 
 ---
 
